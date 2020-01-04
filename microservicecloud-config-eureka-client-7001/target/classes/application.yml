@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: microservicecloud-config-eureka-client
+
+
+eureka:
+  client:
+    register-with-eureka=false: false
+
+
